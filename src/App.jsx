@@ -3,7 +3,7 @@ import Todo from "./components/Todo"
 import TodoForm from './components/TodoForm'
 import Search from './components/Search'
 import Filter from './components/Filter'
-import "./app.css"
+import "./App.css"
 
 
 function App() {
